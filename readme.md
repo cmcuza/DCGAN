@@ -1,4 +1,4 @@
-# Deep Convolucional Generative Adversarial Network
+# Deep Convolutional Generative Adversarial Network
 
 ![Deep Convolucional Generative Adversarial Network](figures/architecture.png "Architecture")
 
